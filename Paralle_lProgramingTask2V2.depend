@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1699909891 source:d:\important_codes\run_code\c_language_runs\parallel_prog_tasks\paralle_lprogramingtask2v2\main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+
